@@ -1,0 +1,10 @@
+baseURL = 'https://jibingjie2.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+themes = 'blowfish'
+
+
+disableKinds = ["oembed"]
+
+[params.social]
+twitter = false
